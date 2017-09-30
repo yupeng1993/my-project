@@ -2,7 +2,7 @@
 	<div class="header">
 		<div class="header_l">
 			<img @click="go" src="../assets/yklogo@2x.png" alt="">
-			<span><i></i>频道</span>
+			<span><i></i>频 道 </span>
 		</div>
 		<div class="header_r">
 			<router-link :to="{name: 'yup'}" tag="span"><i class="search"></i>搜索</router-link>
